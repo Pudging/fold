@@ -1,0 +1,44 @@
+{
+  "name": "video",
+  "version": "1.0.0",
+  "description": "My Remotion video",
+  "repository": {},
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@react-three/fiber": "^9.8.1",
+    "@remotion/cli": "4.0.534",
+    "@remotion/google-fonts": "4.0.534",
+    "@remotion/media": "4.0.534",
+    "@remotion/noise": "4.0.534",
+    "@remotion/paths": "4.0.534",
+    "@remotion/three": "4.0.534",
+    "@remotion/transitions": "4.0.534",
+    "katex": "^0.19.0",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "remotion": "4.0.534",
+    "three": "^0.186.1"
+  },
+  "devDependencies": {
+    "@remotion/eslint-config-flat": "4.0.534",
+    "@types/katex": "^0.16.8",
+    "@types/react": "19.2.7",
+    "@types/three": "^0.186.0",
+    "@types/web": "0.0.166",
+    "eslint": "9.39.5",
+    "playwright": "^1.64.0",
+    "prettier": "3.8.1",
+    "typescript": "5.9.3"
+  },
+  "scripts": {
+    "dev": "remotion studio",
+    "plan": "node capture/plan.mjs --seed=148",
+    "capture": "node capture/capture.mjs && node scripts/sync.mjs",
+    "score": "..\\.venv\\Scripts\\python.exe audio/score.py && ..\\.venv\\Scripts\\python.exe audio/sfx.py && ffmpeg -y -loglevel error -i public/audio/score_raw.wav -af loudnorm=I=-14:TP=-1.5:LRA=11:linear=true -ar 48000 -c:a pcm_s16le public/audio/score.wav",
+    "render": "remotion render FoldDemo out/fold-demo.mp4 --codec=h264 --crf=17 --audio-codec=aac --audio-bitrate=320k",
+    "build": "remotion bundle",
+    "upgrade": "remotion upgrade",
+    "lint": "eslint src && tsc"
+  }
+}

@@ -1,0 +1,12 @@
+node_modules/
+dist/
+qollab-build/
+.venv/
+__pycache__/
+*.log
+artifacts/
+.backup/
+video/out/
+video/build/
+video/public/audio/score_raw.wav
+video/tools/

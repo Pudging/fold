@@ -1,0 +1,9466 @@
+{
+ "seed": 148,
+ "shots": [
+  {
+   "file": "000-lobby.jpg",
+   "label": "lobby",
+   "actionIndex": -1,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "new"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "001-lobby-filled.jpg",
+   "label": "lobby-filled",
+   "actionIndex": -1,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "new"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "002-start.jpg",
+   "label": "start",
+   "actionIndex": -1,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 960,
+    "y": 635.84375,
+    "w": 358,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "003-setup-hover.jpg",
+   "label": "setup-hover",
+   "actionIndex": 0,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 718.01611328125,
+    "w": 32.225830078125,
+    "h": 32.225830078125
+   }
+  },
+  {
+   "file": "004-setup-settlement.jpg",
+   "label": "setup-settlement",
+   "actionIndex": 0,
+   "turn": 0,
+   "phase": "setup-road",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 718.01611328125,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "005-setup-road.jpg",
+   "label": "setup-road",
+   "actionIndex": 1,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 821.5260925292969,
+    "y": 699.8145141601562,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   },
+   "clicked": true
+  },
+  {
+   "file": "006-setup-hover.jpg",
+   "label": "setup-hover",
+   "actionIndex": 2,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 463.1935577392578,
+    "w": 32.225830078125,
+    "h": 32.225799560546875
+   }
+  },
+  {
+   "file": "007-setup-settlement.jpg",
+   "label": "setup-settlement",
+   "actionIndex": 2,
+   "turn": 0,
+   "phase": "setup-road",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 463.19354248046875,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "008-setup-road.jpg",
+   "label": "setup-road",
+   "actionIndex": 3,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 426.7903289794922,
+    "w": 33.4193115234375,
+    "h": 102.64517211914062
+   },
+   "clicked": true
+  },
+  {
+   "file": "009-setup-hover.jpg",
+   "label": "setup-hover",
+   "actionIndex": 4,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 353.98387145996094,
+    "w": 32.225830078125,
+    "h": 32.225799560546875
+   }
+  },
+  {
+   "file": "010-setup-settlement.jpg",
+   "label": "setup-settlement",
+   "actionIndex": 4,
+   "turn": 0,
+   "phase": "setup-road",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 353.98388671875,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "011-setup-road.jpg",
+   "label": "setup-road",
+   "actionIndex": 5,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 884.5783386230469,
+    "y": 372.18548583984375,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   },
+   "clicked": true
+  },
+  {
+   "file": "012-setup-hover.jpg",
+   "label": "setup-hover",
+   "actionIndex": 6,
+   "turn": 0,
+   "phase": "setup-settlement",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 572.4031982421875,
+    "w": 32.225830078125,
+    "h": 32.225830078125
+   }
+  },
+  {
+   "file": "013-setup-settlement.jpg",
+   "label": "setup-settlement",
+   "actionIndex": 6,
+   "turn": 0,
+   "phase": "setup-road",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 313.1484375,
+     "w": 291,
+     "h": 152.296875
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 572.4032592773438,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "014-setup-road.jpg",
+   "label": "setup-road",
+   "actionIndex": 7,
+   "turn": 1,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 821.5260925292969,
+    "y": 590.6048583984375,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   },
+   "clicked": true
+  },
+  {
+   "file": "015-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 9,
+   "turn": 1,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "016-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 9,
+   "turn": 1,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "017-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 10,
+   "turn": 1,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "018-ended.jpg",
+   "label": "ended",
+   "actionIndex": 10,
+   "turn": 2,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "019-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 11,
+   "turn": 2,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "020-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 11,
+   "turn": 2,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "021-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 12,
+   "turn": 2,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "022-ended.jpg",
+   "label": "ended",
+   "actionIndex": 12,
+   "turn": 3,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "023-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 13,
+   "turn": 3,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "024-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 13,
+   "turn": 3,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "025-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 14,
+   "turn": 3,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "026-ended.jpg",
+   "label": "ended",
+   "actionIndex": 14,
+   "turn": 4,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "027-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 15,
+   "turn": 4,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "028-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 15,
+   "turn": 4,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "029-road-mode.jpg",
+   "label": "road-mode",
+   "actionIndex": 16,
+   "turn": 4,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 297.4375,
+    "w": 291,
+    "h": 51
+   },
+   "clicked": true
+  },
+  {
+   "file": "030-road-hover.jpg",
+   "label": "road-hover",
+   "actionIndex": 16,
+   "turn": 4,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 758.4739074707031,
+    "y": 372.18548583984375,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   }
+  },
+  {
+   "file": "031-road-built.jpg",
+   "label": "road-built",
+   "actionIndex": 16,
+   "turn": 4,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 758.4739074707031,
+    "y": 372.18548583984375,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   },
+   "clicked": true
+  },
+  {
+   "file": "032-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 17,
+   "turn": 4,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "033-ended.jpg",
+   "label": "ended",
+   "actionIndex": 17,
+   "turn": 5,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "034-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 18,
+   "turn": 5,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "035-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 18,
+   "turn": 5,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "036-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 19,
+   "turn": 5,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "037-ended.jpg",
+   "label": "ended",
+   "actionIndex": 19,
+   "turn": 6,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "038-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 20,
+   "turn": 6,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "039-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 20,
+   "turn": 6,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "040-road-mode.jpg",
+   "label": "road-mode",
+   "actionIndex": 21,
+   "turn": 6,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 297.4375,
+    "w": 291,
+    "h": 51
+   },
+   "clicked": true
+  },
+  {
+   "file": "041-road-hover.jpg",
+   "label": "road-hover",
+   "actionIndex": 21,
+   "turn": 6,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 695.4216613769531,
+    "y": 372.18548583984375,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   }
+  },
+  {
+   "file": "042-road-built.jpg",
+   "label": "road-built",
+   "actionIndex": 21,
+   "turn": 6,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 695.4216613769531,
+    "y": 372.18548583984375,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   },
+   "clicked": true
+  },
+  {
+   "file": "043-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 22,
+   "turn": 6,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "044-ended.jpg",
+   "label": "ended",
+   "actionIndex": 22,
+   "turn": 7,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "045-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 23,
+   "turn": 7,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "046-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 23,
+   "turn": 7,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "047-bank-form.jpg",
+   "label": "bank-form",
+   "actionIndex": 24,
+   "turn": 7,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "exchange"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "048-bank-done.jpg",
+   "label": "bank-done",
+   "actionIndex": 24,
+   "turn": 7,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "049-road-mode.jpg",
+   "label": "road-mode",
+   "actionIndex": 26,
+   "turn": 7,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 297.4375,
+    "w": 291,
+    "h": 51
+   },
+   "clicked": true
+  },
+  {
+   "file": "050-road-hover.jpg",
+   "label": "road-hover",
+   "actionIndex": 26,
+   "turn": 7,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 758.4739074707031,
+    "y": 590.6048583984375,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   }
+  },
+  {
+   "file": "051-road-built.jpg",
+   "label": "road-built",
+   "actionIndex": 26,
+   "turn": 7,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 758.4739074707031,
+    "y": 590.6048583984375,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   },
+   "clicked": true
+  },
+  {
+   "file": "052-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 28,
+   "turn": 7,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "053-ended.jpg",
+   "label": "ended",
+   "actionIndex": 28,
+   "turn": 8,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "054-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 29,
+   "turn": 8,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "055-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 29,
+   "turn": 8,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "056-trade-open.jpg",
+   "label": "trade-open",
+   "actionIndex": 30,
+   "turn": 8,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "exchange"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1675.75,
+    "y": 579.4375,
+    "w": 141.5,
+    "h": 37
+   },
+   "clicked": true
+  },
+  {
+   "file": "057-trade-form.jpg",
+   "label": "trade-form",
+   "actionIndex": 30,
+   "turn": 8,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "exchange"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 960,
+    "y": 800.84375,
+    "w": 438,
+    "h": 44
+   }
+  },
+  {
+   "file": "058-trade-offer.jpg",
+   "label": "trade-offer",
+   "actionIndex": 30,
+   "turn": 8,
+   "phase": "trade",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 237,
+     "w": 291,
+     "h": 0
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 960,
+    "y": 800.84375,
+    "w": 438,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "059-trade-accept-hover.jpg",
+   "label": "trade-accept-hover",
+   "actionIndex": 30,
+   "turn": 8,
+   "phase": "trade",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 237,
+     "w": 291,
+     "h": 0
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 960,
+    "y": 560.4375,
+    "w": 438,
+    "h": 44
+   }
+  },
+  {
+   "file": "060-trade-accepted.jpg",
+   "label": "trade-accepted",
+   "actionIndex": 30,
+   "turn": 8,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 960,
+    "y": 560.4375,
+    "w": 438,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "061-road-mode.jpg",
+   "label": "road-mode",
+   "actionIndex": 32,
+   "turn": 8,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 297.4375,
+    "w": 291,
+    "h": 51
+   },
+   "clicked": true
+  },
+  {
+   "file": "062-road-hover.jpg",
+   "label": "road-hover",
+   "actionIndex": 32,
+   "turn": 8,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 663.8955383300781,
+    "y": 426.7903289794922,
+    "w": 33.41937255859375,
+    "h": 102.64517211914062
+   }
+  },
+  {
+   "file": "063-road-built.jpg",
+   "label": "road-built",
+   "actionIndex": 32,
+   "turn": 8,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 663.8955383300781,
+    "y": 426.7903289794922,
+    "w": 33.41937255859375,
+    "h": 102.64517211914062
+   },
+   "clicked": true
+  },
+  {
+   "file": "064-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 33,
+   "turn": 8,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "065-ended.jpg",
+   "label": "ended",
+   "actionIndex": 33,
+   "turn": 9,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "066-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 34,
+   "turn": 9,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "067-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 34,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "068-city-mode.jpg",
+   "label": "city-mode",
+   "actionIndex": 35,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "city",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 409.4375,
+    "w": 291,
+    "h": 51
+   },
+   "clicked": true
+  },
+  {
+   "file": "069-city-hover.jpg",
+   "label": "city-hover",
+   "actionIndex": 35,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "city",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 572.4031982421875,
+    "w": 32.225830078125,
+    "h": 32.225830078125
+   }
+  },
+  {
+   "file": "070-city-built.jpg",
+   "label": "city-built",
+   "actionIndex": 35,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 572.4032592773438,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "071-split-tip.jpg",
+   "label": "split-tip",
+   "actionIndex": 37,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 631.4375,
+    "w": 291,
+    "h": 39
+   }
+  },
+  {
+   "file": "072-split-mode.jpg",
+   "label": "split-mode",
+   "actionIndex": 37,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "split",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 631.4375,
+    "w": 291,
+    "h": 39
+   },
+   "clicked": true
+  },
+  {
+   "file": "073-split-hover-a.jpg",
+   "label": "split-hover-a",
+   "actionIndex": 37,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "split",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 718.01611328125,
+    "w": 32.225830078125,
+    "h": 32.225830078125
+   }
+  },
+  {
+   "file": "074-split-a.jpg",
+   "label": "split-a",
+   "actionIndex": 37,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "split",
+    "first": 44,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 718.01611328125,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "075-split-hover-b.jpg",
+   "label": "split-hover-b",
+   "actionIndex": 37,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "split",
+    "first": 44,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 726.94775390625,
+    "y": 572.4031982421875,
+    "w": 32.225830078125,
+    "h": 32.225830078125
+   }
+  },
+  {
+   "file": "076-split-done.jpg",
+   "label": "split-done",
+   "actionIndex": 37,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 726.94775390625,
+    "y": 572.4032592773438,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "077-split-selected.jpg",
+   "label": "split-selected",
+   "actionIndex": 38,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 717.2709655761719,
+    "w": 46.787109375,
+    "h": 95.42584228515625
+   },
+   "clicked": true
+  },
+  {
+   "file": "078-split-psi.jpg",
+   "label": "split-psi",
+   "actionIndex": 38,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1841,
+    "y": 28.5,
+    "w": 34,
+    "h": 34
+   },
+   "clicked": true
+  },
+  {
+   "file": "079-split-psi-open.jpg",
+   "label": "split-psi-open",
+   "actionIndex": 38,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "080-split-psi-scrolled.jpg",
+   "label": "split-psi-scrolled",
+   "actionIndex": 38,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "081-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 39,
+   "turn": 9,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "082-ended.jpg",
+   "label": "ended",
+   "actionIndex": 39,
+   "turn": 10,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "083-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 40,
+   "turn": 10,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "084-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 40,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "085-quantum-tip.jpg",
+   "label": "quantum-tip",
+   "actionIndex": 41,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 521.4375,
+    "w": 291,
+    "h": 51
+   }
+  },
+  {
+   "file": "086-quantum-mode.jpg",
+   "label": "quantum-mode",
+   "actionIndex": 41,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "quantum",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 521.4375,
+    "w": 291,
+    "h": 51
+   },
+   "clicked": true
+  },
+  {
+   "file": "087-quantum-hover-a.jpg",
+   "label": "quantum-hover-a",
+   "actionIndex": 41,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "quantum",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 726.94775390625,
+    "y": 353.98387145996094,
+    "w": 32.225830078125,
+    "h": 32.225799560546875
+   }
+  },
+  {
+   "file": "088-quantum-a.jpg",
+   "label": "quantum-a",
+   "actionIndex": 41,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "quantum",
+    "first": 1,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 726.94775390625,
+    "y": 353.98388671875,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "089-quantum-hover-b.jpg",
+   "label": "quantum-hover-b",
+   "actionIndex": 41,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "quantum",
+    "first": 1,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 663.8955383300781,
+    "y": 463.1935577392578,
+    "w": 32.22576904296875,
+    "h": 32.225799560546875
+   }
+  },
+  {
+   "file": "090-quantum-done.jpg",
+   "label": "quantum-done",
+   "actionIndex": 41,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 663.8955383300781,
+    "y": 463.19354248046875,
+    "w": 39.38714599609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "091-quantum-selected.jpg",
+   "label": "quantum-selected",
+   "actionIndex": 42,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 726.94775390625,
+    "y": 353.23870849609375,
+    "w": 46.787109375,
+    "h": 95.42578125
+   },
+   "clicked": true
+  },
+  {
+   "file": "092-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 43,
+   "turn": 10,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "093-ended.jpg",
+   "label": "ended",
+   "actionIndex": 43,
+   "turn": 11,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "094-gate-z-panel.jpg",
+   "label": "gate-z-panel",
+   "actionIndex": 44,
+   "turn": 11,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 717.2709655761719,
+    "w": 46.787109375,
+    "h": 95.42584228515625
+   },
+   "clicked": true
+  },
+  {
+   "file": "095-gate-z-tip.jpg",
+   "label": "gate-z-tip",
+   "actionIndex": 44,
+   "turn": 11,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 522,
+    "w": 291,
+    "h": 46
+   }
+  },
+  {
+   "file": "096-gate-z-applied.jpg",
+   "label": "gate-z-applied",
+   "actionIndex": 44,
+   "turn": 11,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 522,
+    "w": 291,
+    "h": 46
+   },
+   "clicked": true
+  },
+  {
+   "file": "097-z-after.jpg",
+   "label": "z-after",
+   "actionIndex": 45,
+   "turn": 11,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 717.2709655761719,
+    "w": 46.787109375,
+    "h": 95.42584228515625
+   },
+   "clicked": true
+  },
+  {
+   "file": "098-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 46,
+   "turn": 11,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "099-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 46,
+   "turn": 11,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "100-bank-form.jpg",
+   "label": "bank-form",
+   "actionIndex": 47,
+   "turn": 11,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "exchange"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "101-bank-done.jpg",
+   "label": "bank-done",
+   "actionIndex": 47,
+   "turn": 11,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "102-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 48,
+   "turn": 11,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "103-ended.jpg",
+   "label": "ended",
+   "actionIndex": 48,
+   "turn": 12,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "104-gate-h-panel.jpg",
+   "label": "gate-h-panel",
+   "actionIndex": 49,
+   "turn": 12,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 726.94775390625,
+    "y": 353.23870849609375,
+    "w": 46.787109375,
+    "h": 95.42578125
+   },
+   "clicked": true
+  },
+  {
+   "file": "105-gate-h-tip.jpg",
+   "label": "gate-h-tip",
+   "actionIndex": 49,
+   "turn": 12,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 470,
+    "w": 291,
+    "h": 46
+   }
+  },
+  {
+   "file": "106-gate-h-applied.jpg",
+   "label": "gate-h-applied",
+   "actionIndex": 49,
+   "turn": 12,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 470,
+    "w": 291,
+    "h": 46
+   },
+   "clicked": true
+  },
+  {
+   "file": "107-hA-after.jpg",
+   "label": "hA-after",
+   "actionIndex": 50,
+   "turn": 12,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 726.94775390625,
+    "y": 353.23870849609375,
+    "w": 46.787109375,
+    "h": 95.42578125
+   },
+   "clicked": true
+  },
+  {
+   "file": "108-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 51,
+   "turn": 12,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "109-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 51,
+   "turn": 12,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "110-bank-form.jpg",
+   "label": "bank-form",
+   "actionIndex": 52,
+   "turn": 12,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "exchange"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "111-bank-done.jpg",
+   "label": "bank-done",
+   "actionIndex": 52,
+   "turn": 12,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "112-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 53,
+   "turn": 12,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "113-ended.jpg",
+   "label": "ended",
+   "actionIndex": 53,
+   "turn": 13,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "114-gate-h-panel.jpg",
+   "label": "gate-h-panel",
+   "actionIndex": 54,
+   "turn": 13,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 717.2709655761719,
+    "w": 46.787109375,
+    "h": 95.42584228515625
+   },
+   "clicked": true
+  },
+  {
+   "file": "115-gate-h-tip.jpg",
+   "label": "gate-h-tip",
+   "actionIndex": 54,
+   "turn": 13,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 470,
+    "w": 291,
+    "h": 46
+   }
+  },
+  {
+   "file": "116-gate-h-applied.jpg",
+   "label": "gate-h-applied",
+   "actionIndex": 54,
+   "turn": 13,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 470,
+    "w": 291,
+    "h": 46
+   },
+   "clicked": true
+  },
+  {
+   "file": "117-hB-after.jpg",
+   "label": "hB-after",
+   "actionIndex": 55,
+   "turn": 13,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 853.05224609375,
+    "y": 717.2709655761719,
+    "w": 46.787109375,
+    "h": 95.42584228515625
+   },
+   "clicked": true
+  },
+  {
+   "file": "118-harvest1Roll-ready.jpg",
+   "label": "harvest1Roll-ready",
+   "actionIndex": 56,
+   "turn": 13,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "119-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 57,
+   "turn": 13,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "120-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 57,
+   "turn": 13,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 263.08592987060547,
+     "y": 82.66215515136719,
+     "w": 201.19752502441406,
+     "h": 24.81048583984375
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "121-harvest1-result.jpg",
+   "label": "harvest1-result",
+   "actionIndex": 58,
+   "turn": 13,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 263.0859375,
+     "y": 80,
+     "w": 251.390625,
+     "h": 31
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "122-road-mode.jpg",
+   "label": "road-mode",
+   "actionIndex": 59,
+   "turn": 13,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 321.1015625,
+     "y": 80,
+     "w": 251.390625,
+     "h": 31
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 297.4375,
+    "w": 291,
+    "h": 51
+   },
+   "clicked": true
+  },
+  {
+   "file": "123-road-hover.jpg",
+   "label": "road-hover",
+   "actionIndex": 59,
+   "turn": 13,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "road",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 321.1015625,
+     "y": 80,
+     "w": 251.390625,
+     "h": 31
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 884.5783386230469,
+    "y": 699.8145141601562,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   }
+  },
+  {
+   "file": "124-road-built.jpg",
+   "label": "road-built",
+   "actionIndex": 59,
+   "turn": 13,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 263.0859375,
+     "y": 80,
+     "w": 251.390625,
+     "h": 31
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 884.5783386230469,
+    "y": 699.8145141601562,
+    "w": 92.89093017578125,
+    "h": 66.241943359375
+   },
+   "clicked": true
+  },
+  {
+   "file": "125-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 60,
+   "turn": 13,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 263.0859375,
+     "y": 80,
+     "w": 251.390625,
+     "h": 31
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "126-ended.jpg",
+   "label": "ended",
+   "actionIndex": 60,
+   "turn": 14,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "127-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 61,
+   "turn": 14,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "128-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 61,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "129-split-tip.jpg",
+   "label": "split-tip",
+   "actionIndex": 62,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 631.4375,
+    "w": 291,
+    "h": 39
+   }
+  },
+  {
+   "file": "130-split-mode.jpg",
+   "label": "split-mode",
+   "actionIndex": 62,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "split",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 631.4375,
+    "w": 291,
+    "h": 39
+   },
+   "clicked": true
+  },
+  {
+   "file": "131-split-hover-a.jpg",
+   "label": "split-hover-a",
+   "actionIndex": 62,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "split",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 463.1935577392578,
+    "w": 32.225830078125,
+    "h": 32.225799560546875
+   }
+  },
+  {
+   "file": "132-split-a.jpg",
+   "label": "split-a",
+   "actionIndex": 62,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "split",
+    "first": 18,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 463.19354248046875,
+    "w": 39.3870849609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "133-split-hover-b.jpg",
+   "label": "split-hover-b",
+   "actionIndex": 62,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": "split",
+    "first": 18,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 663.8955383300781,
+    "y": 463.1935577392578,
+    "w": 32.22576904296875,
+    "h": 32.225799560546875
+   }
+  },
+  {
+   "file": "134-split-done.jpg",
+   "label": "split-done",
+   "actionIndex": 62,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 663.8955383300781,
+    "y": 463.19354248046875,
+    "w": 39.38714599609375,
+    "h": 39.3870849609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "135-split2-selected.jpg",
+   "label": "split2-selected",
+   "actionIndex": 63,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 462.44837951660156,
+    "w": 46.787109375,
+    "h": 95.42581176757812
+   },
+   "clicked": true
+  },
+  {
+   "file": "136-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 64,
+   "turn": 14,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "137-ended.jpg",
+   "label": "ended",
+   "actionIndex": 64,
+   "turn": 15,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "138-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 65,
+   "turn": 15,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "139-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 65,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "140-bank-form.jpg",
+   "label": "bank-form",
+   "actionIndex": 66,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "exchange"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "141-bank-done.jpg",
+   "label": "bank-done",
+   "actionIndex": 66,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "142-quantum-tip.jpg",
+   "label": "quantum-tip",
+   "actionIndex": 67,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 521.4375,
+    "w": 291,
+    "h": 51
+   }
+  },
+  {
+   "file": "143-quantum-mode.jpg",
+   "label": "quantum-mode",
+   "actionIndex": 67,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "quantum",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 521.4375,
+    "w": 291,
+    "h": 51
+   },
+   "clicked": true
+  },
+  {
+   "file": "144-quantum-hover-a.jpg",
+   "label": "quantum-hover-a",
+   "actionIndex": 67,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "quantum",
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 681.6129150390625,
+    "w": 32.225830078125,
+    "h": 32.225830078125
+   }
+  },
+  {
+   "file": "145-quantum-a.jpg",
+   "label": "quantum-a",
+   "actionIndex": 67,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "quantum",
+    "first": 41,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 681.6128845214844,
+    "w": 39.3870849609375,
+    "h": 39.38714599609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "146-quantum-hover-b.jpg",
+   "label": "quantum-hover-b",
+   "actionIndex": 67,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": "quantum",
+    "first": 41,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 916.1044616699219,
+    "y": 681.6129150390625,
+    "w": 32.22576904296875,
+    "h": 32.225830078125
+   }
+  },
+  {
+   "file": "147-quantum-done.jpg",
+   "label": "quantum-done",
+   "actionIndex": 67,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 916.1044616699219,
+    "y": 681.6128845214844,
+    "w": 39.38714599609375,
+    "h": 39.38714599609375
+   },
+   "clicked": true
+  },
+  {
+   "file": "148-quantum2-selected.jpg",
+   "label": "quantum2-selected",
+   "actionIndex": 68,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 680.8677368164062,
+    "w": 46.787109375,
+    "h": 95.42578125
+   },
+   "clicked": true
+  },
+  {
+   "file": "149-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 69,
+   "turn": 15,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "150-ended.jpg",
+   "label": "ended",
+   "actionIndex": 69,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "151-gate-cz-panel.jpg",
+   "label": "gate-cz-panel",
+   "actionIndex": 70,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 462.44837951660156,
+    "w": 46.787109375,
+    "h": 95.42581176757812
+   },
+   "clicked": true
+  },
+  {
+   "file": "152-gate-cz-selected.jpg",
+   "label": "gate-cz-selected",
+   "actionIndex": 70,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "153-gate-cz-tip.jpg",
+   "label": "gate-cz-tip",
+   "actionIndex": 70,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 715,
+    "w": 291,
+    "h": 46
+   }
+  },
+  {
+   "file": "154-gate-cz-applied.jpg",
+   "label": "gate-cz-applied",
+   "actionIndex": 70,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 715,
+    "w": 291,
+    "h": 46
+   },
+   "clicked": true
+  },
+  {
+   "file": "155-cz-after.jpg",
+   "label": "cz-after",
+   "actionIndex": 71,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 462.44837951660156,
+    "w": 46.787109375,
+    "h": 95.42581176757812
+   },
+   "clicked": true
+  },
+  {
+   "file": "156-cz-after-other.jpg",
+   "label": "cz-after-other",
+   "actionIndex": 71,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 680.8677368164062,
+    "w": 46.787109375,
+    "h": 95.42578125
+   },
+   "clicked": true
+  },
+  {
+   "file": "157-cz-psi.jpg",
+   "label": "cz-psi",
+   "actionIndex": 71,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1841,
+    "y": 28.5,
+    "w": 34,
+    "h": 34
+   },
+   "clicked": true
+  },
+  {
+   "file": "158-cz-psi-open.jpg",
+   "label": "cz-psi-open",
+   "actionIndex": 71,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "159-cz-psi-scrolled.jpg",
+   "label": "cz-psi-scrolled",
+   "actionIndex": 71,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "160-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 72,
+   "turn": 16,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "161-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 72,
+   "turn": 16,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "162-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 73,
+   "turn": 16,
+   "phase": "actions",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 494.96875,
+     "w": 291,
+     "h": 515.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "163-ended.jpg",
+   "label": "ended",
+   "actionIndex": 73,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 730.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "164-gate-h-panel.jpg",
+   "label": "gate-h-panel",
+   "actionIndex": 74,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 680.8677368164062,
+    "w": 46.787109375,
+    "h": 95.42578125
+   },
+   "clicked": true
+  },
+  {
+   "file": "165-gate-h-tip.jpg",
+   "label": "gate-h-tip",
+   "actionIndex": 74,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 470,
+    "w": 291,
+    "h": 46
+   }
+  },
+  {
+   "file": "166-gate-h-applied.jpg",
+   "label": "gate-h-applied",
+   "actionIndex": 74,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 470,
+    "w": 291,
+    "h": 46
+   },
+   "clicked": true
+  },
+  {
+   "file": "167-bell-after.jpg",
+   "label": "bell-after",
+   "actionIndex": 75,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 1,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 680.8677368164062,
+    "w": 46.787109375,
+    "h": 95.42578125
+   },
+   "clicked": true
+  },
+  {
+   "file": "168-bell-after-other.jpg",
+   "label": "bell-after-other",
+   "actionIndex": 75,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": 0,
+    "panel": null
+   },
+   "els": {
+    "oddsA": {
+     "x": 1675.75,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsB": {
+     "x": 1825.25,
+     "y": 361.5,
+     "w": 141.5,
+     "h": 43
+    },
+    "oddsBar": {
+     "x": 1750.5,
+     "y": 325,
+     "w": 291,
+     "h": 10
+    },
+    "phase": {
+     "x": 1750.5,
+     "y": 415,
+     "w": 291,
+     "h": 40
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 542,
+     "w": 291,
+     "h": 610
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 790,
+    "y": 462.44837951660156,
+    "w": 46.787109375,
+    "h": 95.42581176757812
+   },
+   "clicked": true
+  },
+  {
+   "file": "169-bell-psi.jpg",
+   "label": "bell-psi",
+   "actionIndex": 76,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1841,
+    "y": 28.5,
+    "w": 34,
+    "h": 34
+   },
+   "clicked": true
+  },
+  {
+   "file": "170-bell-psi-open.jpg",
+   "label": "bell-psi-open",
+   "actionIndex": 76,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "171-bell-psi-scrolled.jpg",
+   "label": "bell-psi-scrolled",
+   "actionIndex": 76,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "science"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "172-harvest2Roll-ready.jpg",
+   "label": "harvest2Roll-ready",
+   "actionIndex": 76,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "173-roll-hover.jpg",
+   "label": "roll-hover",
+   "actionIndex": 77,
+   "turn": 17,
+   "phase": "roll",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 348,
+     "w": 291,
+     "h": 222
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   }
+  },
+  {
+   "file": "174-rolled.jpg",
+   "label": "rolled",
+   "actionIndex": 77,
+   "turn": 17,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 263.40625762939453,
+     "y": 84.46854782104492,
+     "w": 167.56529235839844,
+     "h": 20.610633850097656
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 270,
+    "w": 291,
+    "h": 66
+   },
+   "clicked": true
+  },
+  {
+   "file": "175-harvest2-result.jpg",
+   "label": "harvest2-result",
+   "actionIndex": 78,
+   "turn": 17,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 263.40625,
+     "y": 80,
+     "w": 252.03125,
+     "h": 31
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   }
+  },
+  {
+   "file": "176-end-hover.jpg",
+   "label": "end-hover",
+   "actionIndex": 79,
+   "turn": 17,
+   "phase": "actions",
+   "active": 0,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "measured": {
+     "x": 263.40625,
+     "y": 80,
+     "w": 252.03125,
+     "h": 31
+    },
+    "panel": {
+     "x": 1750.5,
+     "y": 472.96875,
+     "w": 291,
+     "h": 471.9375
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   }
+  },
+  {
+   "file": "177-ended.jpg",
+   "label": "ended",
+   "actionIndex": 79,
+   "turn": 18,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": null
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1750.5,
+    "y": 686.9375,
+    "w": 291,
+    "h": 44
+   },
+   "clicked": true
+  },
+  {
+   "file": "178-log.jpg",
+   "label": "log",
+   "actionIndex": 80,
+   "turn": 18,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "log"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1881,
+    "y": 28.5,
+    "w": 34,
+    "h": 34
+   },
+   "clicked": true
+  },
+  {
+   "file": "179-rules.jpg",
+   "label": "rules",
+   "actionIndex": 80,
+   "turn": 18,
+   "phase": "roll",
+   "active": 1,
+   "ui": {
+    "mode": null,
+    "first": null,
+    "selectedQ": null,
+    "panel": "rules"
+   },
+   "els": {
+    "panel": {
+     "x": 1750.5,
+     "y": 326,
+     "w": 291,
+     "h": 178
+    },
+    "hud": {
+     "x": 790,
+     "y": 80,
+     "w": 1580,
+     "h": 44
+    },
+    "hand": {
+     "x": 790,
+     "y": 1025,
+     "w": 1580,
+     "h": 110
+    }
+   },
+   "cursor": {
+    "x": 1801,
+    "y": 28.5,
+    "w": 34,
+    "h": 34
+   },
+   "clicked": true
+  }
+ ],
+ "bursts": [
+  {
+   "base": "096-gate-z-applied.jpg",
+   "frames": [
+    {
+     "file": "b-096-gate-z-applied-0.jpg",
+     "t": 468
+    },
+    {
+     "file": "b-096-gate-z-applied-1.jpg",
+     "t": 602
+    },
+    {
+     "file": "b-096-gate-z-applied-2.jpg",
+     "t": 745
+    },
+    {
+     "file": "b-096-gate-z-applied-3.jpg",
+     "t": 910
+    },
+    {
+     "file": "b-096-gate-z-applied-4.jpg",
+     "t": 1148
+    },
+    {
+     "file": "b-096-gate-z-applied-5.jpg",
+     "t": 1542
+    }
+   ]
+  },
+  {
+   "base": "106-gate-h-applied.jpg",
+   "frames": [
+    {
+     "file": "b-106-gate-h-applied-0.jpg",
+     "t": 510
+    },
+    {
+     "file": "b-106-gate-h-applied-1.jpg",
+     "t": 662
+    },
+    {
+     "file": "b-106-gate-h-applied-2.jpg",
+     "t": 814
+    },
+    {
+     "file": "b-106-gate-h-applied-3.jpg",
+     "t": 966
+    },
+    {
+     "file": "b-106-gate-h-applied-4.jpg",
+     "t": 1162
+    },
+    {
+     "file": "b-106-gate-h-applied-5.jpg",
+     "t": 1548
+    }
+   ]
+  },
+  {
+   "base": "116-gate-h-applied.jpg",
+   "frames": [
+    {
+     "file": "b-116-gate-h-applied-0.jpg",
+     "t": 447
+    },
+    {
+     "file": "b-116-gate-h-applied-1.jpg",
+     "t": 590
+    },
+    {
+     "file": "b-116-gate-h-applied-2.jpg",
+     "t": 719
+    },
+    {
+     "file": "b-116-gate-h-applied-3.jpg",
+     "t": 908
+    },
+    {
+     "file": "b-116-gate-h-applied-4.jpg",
+     "t": 1148
+    },
+    {
+     "file": "b-116-gate-h-applied-5.jpg",
+     "t": 1530
+    }
+   ]
+  },
+  {
+   "base": "120-rolled.jpg",
+   "frames": [
+    {
+     "file": "b-120-rolled-0.jpg",
+     "t": 518
+    },
+    {
+     "file": "b-120-rolled-1.jpg",
+     "t": 668
+    },
+    {
+     "file": "b-120-rolled-2.jpg",
+     "t": 823
+    },
+    {
+     "file": "b-120-rolled-3.jpg",
+     "t": 983
+    },
+    {
+     "file": "b-120-rolled-4.jpg",
+     "t": 1247
+    },
+    {
+     "file": "b-120-rolled-5.jpg",
+     "t": 1654
+    }
+   ]
+  },
+  {
+   "base": "154-gate-cz-applied.jpg",
+   "frames": [
+    {
+     "file": "b-154-gate-cz-applied-0.jpg",
+     "t": 451
+    },
+    {
+     "file": "b-154-gate-cz-applied-1.jpg",
+     "t": 580
+    },
+    {
+     "file": "b-154-gate-cz-applied-2.jpg",
+     "t": 695
+    },
+    {
+     "file": "b-154-gate-cz-applied-3.jpg",
+     "t": 893
+    },
+    {
+     "file": "b-154-gate-cz-applied-4.jpg",
+     "t": 1141
+    },
+    {
+     "file": "b-154-gate-cz-applied-5.jpg",
+     "t": 1530
+    }
+   ]
+  },
+  {
+   "base": "166-gate-h-applied.jpg",
+   "frames": [
+    {
+     "file": "b-166-gate-h-applied-0.jpg",
+     "t": 452
+    },
+    {
+     "file": "b-166-gate-h-applied-1.jpg",
+     "t": 572
+    },
+    {
+     "file": "b-166-gate-h-applied-2.jpg",
+     "t": 701
+    },
+    {
+     "file": "b-166-gate-h-applied-3.jpg",
+     "t": 895
+    },
+    {
+     "file": "b-166-gate-h-applied-4.jpg",
+     "t": 1147
+    },
+    {
+     "file": "b-166-gate-h-applied-5.jpg",
+     "t": 1526
+    }
+   ]
+  },
+  {
+   "base": "174-rolled.jpg",
+   "frames": [
+    {
+     "file": "b-174-rolled-0.jpg",
+     "t": 476
+    },
+    {
+     "file": "b-174-rolled-1.jpg",
+     "t": 618
+    },
+    {
+     "file": "b-174-rolled-2.jpg",
+     "t": 794
+    },
+    {
+     "file": "b-174-rolled-3.jpg",
+     "t": 952
+    },
+    {
+     "file": "b-174-rolled-4.jpg",
+     "t": 1262
+    },
+    {
+     "file": "b-174-rolled-5.jpg",
+     "t": 1644
+    }
+   ]
+  },
+  {
+   "base": "tl-008-gate-h.jpg",
+   "frames": [
+    {
+     "file": "b-tl-008-gate-h-0.jpg",
+     "t": 442
+    },
+    {
+     "file": "b-tl-008-gate-h-1.jpg",
+     "t": 768
+    },
+    {
+     "file": "b-tl-008-gate-h-2.jpg",
+     "t": 1154
+    }
+   ]
+  },
+  {
+   "base": "tl-012-collapse.jpg",
+   "frames": [
+    {
+     "file": "b-tl-012-collapse-0.jpg",
+     "t": 383
+    },
+    {
+     "file": "b-tl-012-collapse-1.jpg",
+     "t": 515
+    },
+    {
+     "file": "b-tl-012-collapse-2.jpg",
+     "t": 717
+    },
+    {
+     "file": "b-tl-012-collapse-3.jpg",
+     "t": 954
+    },
+    {
+     "file": "b-tl-012-collapse-4.jpg",
+     "t": 1247
+    },
+    {
+     "file": "b-tl-012-collapse-5.jpg",
+     "t": 1640
+    }
+   ]
+  },
+  {
+   "base": "tl-015-collapse.jpg",
+   "frames": [
+    {
+     "file": "b-tl-015-collapse-0.jpg",
+     "t": 378
+    },
+    {
+     "file": "b-tl-015-collapse-1.jpg",
+     "t": 545
+    },
+    {
+     "file": "b-tl-015-collapse-2.jpg",
+     "t": 705
+    },
+    {
+     "file": "b-tl-015-collapse-3.jpg",
+     "t": 974
+    },
+    {
+     "file": "b-tl-015-collapse-4.jpg",
+     "t": 1267
+    },
+    {
+     "file": "b-tl-015-collapse-5.jpg",
+     "t": 1640
+    }
+   ]
+  },
+  {
+   "base": "tl-018-collapse.jpg",
+   "frames": [
+    {
+     "file": "b-tl-018-collapse-0.jpg",
+     "t": 385
+    },
+    {
+     "file": "b-tl-018-collapse-1.jpg",
+     "t": 542
+    },
+    {
+     "file": "b-tl-018-collapse-2.jpg",
+     "t": 712
+    },
+    {
+     "file": "b-tl-018-collapse-3.jpg",
+     "t": 947
+    },
+    {
+     "file": "b-tl-018-collapse-4.jpg",
+     "t": 1251
+    },
+    {
+     "file": "b-tl-018-collapse-5.jpg",
+     "t": 1650
+    }
+   ]
+  },
+  {
+   "base": "tl-027-gate-z.jpg",
+   "frames": [
+    {
+     "file": "b-tl-027-gate-z-0.jpg",
+     "t": 434
+    },
+    {
+     "file": "b-tl-027-gate-z-1.jpg",
+     "t": 734
+    },
+    {
+     "file": "b-tl-027-gate-z-2.jpg",
+     "t": 1143
+    }
+   ]
+  },
+  {
+   "base": "tl-031-collapse.jpg",
+   "frames": [
+    {
+     "file": "b-tl-031-collapse-0.jpg",
+     "t": 380
+    },
+    {
+     "file": "b-tl-031-collapse-1.jpg",
+     "t": 517
+    },
+    {
+     "file": "b-tl-031-collapse-2.jpg",
+     "t": 716
+    },
+    {
+     "file": "b-tl-031-collapse-3.jpg",
+     "t": 964
+    },
+    {
+     "file": "b-tl-031-collapse-4.jpg",
+     "t": 1244
+    },
+    {
+     "file": "b-tl-031-collapse-5.jpg",
+     "t": 1649
+    }
+   ]
+  },
+  {
+   "base": "tl-047-collapse.jpg",
+   "frames": [
+    {
+     "file": "b-tl-047-collapse-0.jpg",
+     "t": 378
+    },
+    {
+     "file": "b-tl-047-collapse-1.jpg",
+     "t": 534
+    },
+    {
+     "file": "b-tl-047-collapse-2.jpg",
+     "t": 719
+    },
+    {
+     "file": "b-tl-047-collapse-3.jpg",
+     "t": 960
+    },
+    {
+     "file": "b-tl-047-collapse-4.jpg",
+     "t": 1262
+    },
+    {
+     "file": "b-tl-047-collapse-5.jpg",
+     "t": 1644
+    }
+   ]
+  },
+  {
+   "base": "tl-060-gate-h.jpg",
+   "frames": [
+    {
+     "file": "b-tl-060-gate-h-0.jpg",
+     "t": 425
+    },
+    {
+     "file": "b-tl-060-gate-h-1.jpg",
+     "t": 744
+    },
+    {
+     "file": "b-tl-060-gate-h-2.jpg",
+     "t": 1133
+    }
+   ]
+  },
+  {
+   "base": "tl-063-gate-h.jpg",
+   "frames": [
+    {
+     "file": "b-tl-063-gate-h-0.jpg",
+     "t": 448
+    },
+    {
+     "file": "b-tl-063-gate-h-1.jpg",
+     "t": 737
+    },
+    {
+     "file": "b-tl-063-gate-h-2.jpg",
+     "t": 1155
+    }
+   ]
+  },
+  {
+   "base": "tl-064-collapse.jpg",
+   "frames": [
+    {
+     "file": "b-tl-064-collapse-0.jpg",
+     "t": 396
+    },
+    {
+     "file": "b-tl-064-collapse-1.jpg",
+     "t": 550
+    },
+    {
+     "file": "b-tl-064-collapse-2.jpg",
+     "t": 715
+    },
+    {
+     "file": "b-tl-064-collapse-3.jpg",
+     "t": 956
+    },
+    {
+     "file": "b-tl-064-collapse-4.jpg",
+     "t": 1249
+    },
+    {
+     "file": "b-tl-064-collapse-5.jpg",
+     "t": 1650
+    }
+   ]
+  }
+ ],
+ "timelapse": [
+  {
+   "file": "tl-000-split.jpg",
+   "label": "split",
+   "actionIndex": 81,
+   "turn": 18,
+   "active": 1,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-001-roll.jpg",
+   "label": "roll",
+   "actionIndex": 82,
+   "turn": 18,
+   "active": 1,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null,
+   "total": 6
+  },
+  {
+   "file": "tl-002-road.jpg",
+   "label": "road",
+   "actionIndex": 83,
+   "turn": 18,
+   "active": 1,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-003-turn.jpg",
+   "label": "turn",
+   "actionIndex": 84,
+   "turn": 19,
+   "active": 0,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-004-roll.jpg",
+   "label": "roll",
+   "actionIndex": 85,
+   "turn": 19,
+   "active": 0,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null,
+   "total": 6
+  },
+  {
+   "file": "tl-005-road.jpg",
+   "label": "road",
+   "actionIndex": 87,
+   "turn": 19,
+   "active": 0,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-006-road.jpg",
+   "label": "road",
+   "actionIndex": 89,
+   "turn": 19,
+   "active": 0,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-007-turn.jpg",
+   "label": "turn",
+   "actionIndex": 90,
+   "turn": 20,
+   "active": 1,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-008-gate-h.jpg",
+   "label": "gate-h",
+   "actionIndex": 91,
+   "turn": 20,
+   "active": 1,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-009-roll.jpg",
+   "label": "roll",
+   "actionIndex": 92,
+   "turn": 20,
+   "active": 1,
+   "scores": [
+    4,
+    3
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null,
+   "total": 6
+  },
+  {
+   "file": "tl-010-road.jpg",
+   "label": "road",
+   "actionIndex": 94,
+   "turn": 20,
+   "active": 1,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-011-turn.jpg",
+   "label": "turn",
+   "actionIndex": 95,
+   "turn": 21,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-012-collapse.jpg",
+   "label": "collapse",
+   "actionIndex": 96,
+   "turn": 21,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 1,
+     "bit": 0,
+     "kept": 1,
+     "lost": 14
+    }
+   ],
+   "winner": null,
+   "total": 5
+  },
+  {
+   "file": "tl-013-turn.jpg",
+   "label": "turn",
+   "actionIndex": 97,
+   "turn": 22,
+   "active": 1,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-014-split.jpg",
+   "label": "split",
+   "actionIndex": 98,
+   "turn": 22,
+   "active": 1,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-015-collapse.jpg",
+   "label": "collapse",
+   "actionIndex": 99,
+   "turn": 22,
+   "active": 1,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 1,
+     "bit": 1,
+     "kept": 14,
+     "lost": 1
+    }
+   ],
+   "winner": null,
+   "total": 5
+  },
+  {
+   "file": "tl-016-turn.jpg",
+   "label": "turn",
+   "actionIndex": 100,
+   "turn": 23,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-017-split.jpg",
+   "label": "split",
+   "actionIndex": 101,
+   "turn": 23,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-018-collapse.jpg",
+   "label": "collapse",
+   "actionIndex": 102,
+   "turn": 23,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 0,
+     "bit": 0,
+     "kept": 41,
+     "lost": 43
+    }
+   ],
+   "winner": null,
+   "total": 5
+  },
+  {
+   "file": "tl-019-turn.jpg",
+   "label": "turn",
+   "actionIndex": 104,
+   "turn": 24,
+   "active": 1,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-020-roll.jpg",
+   "label": "roll",
+   "actionIndex": 105,
+   "turn": 24,
+   "active": 1,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 5
+  },
+  {
+   "file": "tl-021-turn.jpg",
+   "label": "turn",
+   "actionIndex": 106,
+   "turn": 25,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-022-split.jpg",
+   "label": "split",
+   "actionIndex": 107,
+   "turn": 25,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-023-roll.jpg",
+   "label": "roll",
+   "actionIndex": 108,
+   "turn": 25,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null,
+   "total": 8
+  },
+  {
+   "file": "tl-024-turn.jpg",
+   "label": "turn",
+   "actionIndex": 109,
+   "turn": 26,
+   "active": 1,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-025-roll.jpg",
+   "label": "roll",
+   "actionIndex": 110,
+   "turn": 26,
+   "active": 1,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null,
+   "total": 3
+  },
+  {
+   "file": "tl-026-turn.jpg",
+   "label": "turn",
+   "actionIndex": 111,
+   "turn": 27,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-027-gate-z.jpg",
+   "label": "gate-z",
+   "actionIndex": 112,
+   "turn": 27,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-028-roll.jpg",
+   "label": "roll",
+   "actionIndex": 113,
+   "turn": 27,
+   "active": 0,
+   "scores": [
+    4,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null,
+   "total": 3
+  },
+  {
+   "file": "tl-029-city.jpg",
+   "label": "city",
+   "actionIndex": 114,
+   "turn": 27,
+   "active": 0,
+   "scores": [
+    5,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-030-turn.jpg",
+   "label": "turn",
+   "actionIndex": 115,
+   "turn": 28,
+   "active": 1,
+   "scores": [
+    5,
+    5
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-031-collapse.jpg",
+   "label": "collapse",
+   "actionIndex": 116,
+   "turn": 28,
+   "active": 1,
+   "scores": [
+    5,
+    5
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 0,
+     "bit": 1,
+     "kept": 43,
+     "lost": 41
+    }
+   ],
+   "winner": null,
+   "total": 11
+  },
+  {
+   "file": "tl-032-settlement.jpg",
+   "label": "settlement",
+   "actionIndex": 118,
+   "turn": 28,
+   "active": 1,
+   "scores": [
+    5,
+    6
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 0,
+     "bit": 1,
+     "kept": 43,
+     "lost": 41
+    }
+   ],
+   "winner": null
+  },
+  {
+   "file": "tl-033-turn.jpg",
+   "label": "turn",
+   "actionIndex": 119,
+   "turn": 29,
+   "active": 0,
+   "scores": [
+    5,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-034-roll.jpg",
+   "label": "roll",
+   "actionIndex": 120,
+   "turn": 29,
+   "active": 0,
+   "scores": [
+    5,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 9
+  },
+  {
+   "file": "tl-035-road.jpg",
+   "label": "road",
+   "actionIndex": 121,
+   "turn": 29,
+   "active": 0,
+   "scores": [
+    5,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-036-turn.jpg",
+   "label": "turn",
+   "actionIndex": 122,
+   "turn": 30,
+   "active": 1,
+   "scores": [
+    5,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-037-roll.jpg",
+   "label": "roll",
+   "actionIndex": 123,
+   "turn": 30,
+   "active": 1,
+   "scores": [
+    5,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 12
+  },
+  {
+   "file": "tl-038-turn.jpg",
+   "label": "turn",
+   "actionIndex": 124,
+   "turn": 31,
+   "active": 0,
+   "scores": [
+    5,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-039-roll.jpg",
+   "label": "roll",
+   "actionIndex": 125,
+   "turn": 31,
+   "active": 0,
+   "scores": [
+    5,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 6
+  },
+  {
+   "file": "tl-040-city.jpg",
+   "label": "city",
+   "actionIndex": 126,
+   "turn": 31,
+   "active": 0,
+   "scores": [
+    6,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-041-turn.jpg",
+   "label": "turn",
+   "actionIndex": 128,
+   "turn": 32,
+   "active": 1,
+   "scores": [
+    6,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-042-roll.jpg",
+   "label": "roll",
+   "actionIndex": 129,
+   "turn": 32,
+   "active": 1,
+   "scores": [
+    6,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 9
+  },
+  {
+   "file": "tl-043-turn.jpg",
+   "label": "turn",
+   "actionIndex": 130,
+   "turn": 33,
+   "active": 0,
+   "scores": [
+    6,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-044-roll.jpg",
+   "label": "roll",
+   "actionIndex": 131,
+   "turn": 33,
+   "active": 0,
+   "scores": [
+    6,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 4
+  },
+  {
+   "file": "tl-045-turn.jpg",
+   "label": "turn",
+   "actionIndex": 132,
+   "turn": 34,
+   "active": 1,
+   "scores": [
+    6,
+    6
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-046-split.jpg",
+   "label": "split",
+   "actionIndex": 133,
+   "turn": 34,
+   "active": 1,
+   "scores": [
+    6,
+    6
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-047-collapse.jpg",
+   "label": "collapse",
+   "actionIndex": 134,
+   "turn": 34,
+   "active": 1,
+   "scores": [
+    6,
+    6
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 1,
+     "bit": 1,
+     "kept": 3,
+     "lost": 14
+    }
+   ],
+   "winner": null,
+   "total": 5
+  },
+  {
+   "file": "tl-048-settlement.jpg",
+   "label": "settlement",
+   "actionIndex": 135,
+   "turn": 34,
+   "active": 1,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 1,
+     "bit": 1,
+     "kept": 3,
+     "lost": 14
+    }
+   ],
+   "winner": null
+  },
+  {
+   "file": "tl-049-road.jpg",
+   "label": "road",
+   "actionIndex": 136,
+   "turn": 34,
+   "active": 1,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 1,
+     "bit": 1,
+     "kept": 3,
+     "lost": 14
+    }
+   ],
+   "winner": null
+  },
+  {
+   "file": "tl-050-turn.jpg",
+   "label": "turn",
+   "actionIndex": 137,
+   "turn": 35,
+   "active": 0,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-051-roll.jpg",
+   "label": "roll",
+   "actionIndex": 138,
+   "turn": 35,
+   "active": 0,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 8
+  },
+  {
+   "file": "tl-052-turn.jpg",
+   "label": "turn",
+   "actionIndex": 140,
+   "turn": 36,
+   "active": 1,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-053-split.jpg",
+   "label": "split",
+   "actionIndex": 141,
+   "turn": 36,
+   "active": 1,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-054-roll.jpg",
+   "label": "roll",
+   "actionIndex": 142,
+   "turn": 36,
+   "active": 1,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null,
+   "total": 3
+  },
+  {
+   "file": "tl-055-road.jpg",
+   "label": "road",
+   "actionIndex": 144,
+   "turn": 36,
+   "active": 1,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-056-turn.jpg",
+   "label": "turn",
+   "actionIndex": 145,
+   "turn": 37,
+   "active": 0,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-057-roll.jpg",
+   "label": "roll",
+   "actionIndex": 146,
+   "turn": 37,
+   "active": 0,
+   "scores": [
+    6,
+    7
+   ],
+   "pending": 1,
+   "resolved": null,
+   "winner": null,
+   "total": 9
+  },
+  {
+   "file": "tl-058-quantum.jpg",
+   "label": "quantum",
+   "actionIndex": 147,
+   "turn": 37,
+   "active": 0,
+   "scores": [
+    7,
+    7
+   ],
+   "pending": 2,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-059-turn.jpg",
+   "label": "turn",
+   "actionIndex": 148,
+   "turn": 38,
+   "active": 1,
+   "scores": [
+    7,
+    7
+   ],
+   "pending": 2,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-060-gate-h.jpg",
+   "label": "gate-h",
+   "actionIndex": 149,
+   "turn": 38,
+   "active": 1,
+   "scores": [
+    7,
+    7
+   ],
+   "pending": 2,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-061-roll.jpg",
+   "label": "roll",
+   "actionIndex": 150,
+   "turn": 38,
+   "active": 1,
+   "scores": [
+    7,
+    7
+   ],
+   "pending": 2,
+   "resolved": null,
+   "winner": null,
+   "total": 3
+  },
+  {
+   "file": "tl-062-turn.jpg",
+   "label": "turn",
+   "actionIndex": 151,
+   "turn": 39,
+   "active": 0,
+   "scores": [
+    7,
+    7
+   ],
+   "pending": 2,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-063-gate-h.jpg",
+   "label": "gate-h",
+   "actionIndex": 152,
+   "turn": 39,
+   "active": 0,
+   "scores": [
+    7,
+    7
+   ],
+   "pending": 2,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-064-collapse.jpg",
+   "label": "collapse",
+   "actionIndex": 153,
+   "turn": 39,
+   "active": 0,
+   "scores": [
+    7,
+    7
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 1,
+     "bit": 0,
+     "kept": 3,
+     "lost": 20
+    },
+    {
+     "slot": 1,
+     "owner": 0,
+     "bit": 0,
+     "kept": 41,
+     "lost": 52
+    }
+   ],
+   "winner": null,
+   "total": 5
+  },
+  {
+   "file": "tl-065-city.jpg",
+   "label": "city",
+   "actionIndex": 154,
+   "turn": 39,
+   "active": 0,
+   "scores": [
+    8,
+    7
+   ],
+   "pending": 0,
+   "resolved": [
+    {
+     "slot": 0,
+     "owner": 1,
+     "bit": 0,
+     "kept": 3,
+     "lost": 20
+    },
+    {
+     "slot": 1,
+     "owner": 0,
+     "bit": 0,
+     "kept": 41,
+     "lost": 52
+    }
+   ],
+   "winner": null
+  },
+  {
+   "file": "tl-066-turn.jpg",
+   "label": "turn",
+   "actionIndex": 155,
+   "turn": 40,
+   "active": 1,
+   "scores": [
+    8,
+    7
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-067-roll.jpg",
+   "label": "roll",
+   "actionIndex": 156,
+   "turn": 40,
+   "active": 1,
+   "scores": [
+    8,
+    7
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 5
+  },
+  {
+   "file": "tl-068-road.jpg",
+   "label": "road",
+   "actionIndex": 158,
+   "turn": 40,
+   "active": 1,
+   "scores": [
+    8,
+    7
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-069-turn.jpg",
+   "label": "turn",
+   "actionIndex": 159,
+   "turn": 41,
+   "active": 0,
+   "scores": [
+    8,
+    7
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null
+  },
+  {
+   "file": "tl-070-roll.jpg",
+   "label": "roll",
+   "actionIndex": 160,
+   "turn": 41,
+   "active": 0,
+   "scores": [
+    8,
+    7
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": null,
+   "total": 8
+  },
+  {
+   "file": "tl-071-road.jpg",
+   "label": "road",
+   "actionIndex": 162,
+   "turn": 41,
+   "active": 0,
+   "scores": [
+    10,
+    5
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": 0
+  },
+  {
+   "file": "tl-072-winner.jpg",
+   "label": "winner",
+   "actionIndex": 163,
+   "turn": 41,
+   "active": 0,
+   "scores": [
+    10,
+    5
+   ],
+   "pending": 0,
+   "resolved": null,
+   "winner": 0
+  }
+ ]
+}

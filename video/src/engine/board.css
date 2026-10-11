@@ -1,0 +1,28 @@
+.number{font-size:23px;font-weight:800;fill:#333629}
+.pips{font-size:10px;letter-spacing:1px;fill:#494a3c}
+.red{fill:#ae3c2c}
+.port text{fill:#e5e7d8;font-size:12px;font-weight:700}
+.port .port-gate{font-size:9px;fill:#b4bacf;letter-spacing:1px}
+.robber{fill:#243038;stroke:#e0d9c4;stroke-width:1.3}
+.ghost-label,.ghost-prob{font-size:12px;fill:#fff2dd;font-weight:800;paint-order:stroke;stroke:#28373d;stroke-width:3px;stroke-linejoin:round}
+.ghost-prob{font-size:10px}
+.ghost-well{fill:#161a2c88;stroke:#d6c6ff44;stroke-width:3}
+.ghost.selected .ghost-well{stroke:#e6dbffaa;stroke-width:3.5}
+.ghost-arc{fill:none;stroke:#dccdff;stroke-width:3.5;stroke-linecap:round;filter:drop-shadow(0 0 3px #b99cff)}
+.ghost-arc.shift{animation:arc-shift 1.2s cubic-bezier(.45,0,.2,1) both}
+.ghost-body.shift{animation:o-shift 1.2s cubic-bezier(.45,0,.2,1) both}
+.ghost-tag rect{fill:#2b2446;stroke:#b7a2ee;stroke-width:1.2}
+.ghost-tag text{font-size:9.5px;font-weight:800;fill:#f1ebff;letter-spacing:.3px}
+.ghost .ghost-prob{font-size:11px}
+.yield{pointer-events:none}
+.yield rect{stroke:#14232b;stroke-width:2}
+.yield text{font-size:12px;font-weight:800;fill:#15232a}
+.yield .yield-icon{font-size:12px}
+.yield.fresh{transform-box:fill-box;transform-origin:center;animation:pop .55s var(--d) cubic-bezier(.3,1.6,.5,1) both}
+.yield-note{display:inline-flex;align-items:center;gap:5px;font-size:12px;font-weight:800;color:var(--player)}
+.yield-note .res-icon{font-size:15px;width:15px;filter:brightness(1.3)}
+.yield-note.muted{color:#9fb0b6;font-weight:600}
+.quantum-thread{fill:none;stroke:#e6d2ff88;stroke-width:2;stroke-dasharray:5 5;pointer-events:none}
+.quantum-thread.selected{stroke:#f0e2ff;stroke-width:2.5}
+.correlation-thread{fill:none;stroke:#c6adf1bb;stroke-width:2.5;stroke-dasharray:2 5;pointer-events:stroke}
+.correlation-thread.selected{stroke:#e2d2ff;stroke-width:3}
