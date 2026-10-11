@@ -2,6 +2,8 @@
 
 Checked October 11, 2026. **Source repository:** [Pudging/fold](https://github.com/Pudging/fold). Qollab publication and competition submissions are still pending.
 
+**Public game:** [fold-kgveritrade.vercel.app](https://fold-kgveritrade.vercel.app). Tested without signing in. [Deployment details](../docs/DEPLOYMENT.md).
+
 ## Verified requirements
 
 From the [official rules](https://qollab.xyz/programs/hackathon/terms): submit by **October 11, 7 PM Eastern**; use Qiskit and free Qollab simulators including IonQ; publish a runnable MIT project with an explanatory page; provide a public, sign-in-free **2–3 minute video**; support accessibility; disclose starting code and build-window additions. Outside project repositories must be MIT. Include “This effort is supported by Qollab & IonQ” and keep the Qollab project available for 12 months.
@@ -42,7 +44,8 @@ Publishing the project may be distinct from entering it through a competition fo
 - [ ] Supply registered team name, members and correct track.
 - [ ] Finalize honest build-window / reused-code disclosure.
 - [x] Public GitHub repository: https://github.com/Pudging/fold
-- [ ] Confirm the GitHub repo contains original source, docs and LICENSE, excluding private backups/environments and large rendered outputs.
+- [x] Confirm the GitHub repo contains original source, docs and LICENSE, excluding private backups/environments and large rendered outputs.
+- [x] Deploy the browser game publicly on Vercel and verify setup, production, turn handoff, inspector and tutorial restoration.
 - [ ] Finish and publicly host a 120–180 second demo. Existing rendered video is **106.005 seconds**, too short. Current Remotion source defines **148 seconds**, but that source is newer than the MP4; rerender, probe and review it. No render was performed in this preparation task.
 - [ ] Replace PENDING video/source/contributor fields in the project page, then rebuild the upload ZIP.
 - [ ] Test Qollab's built-in free simulator: open ψ and verify a nonempty circuit.

@@ -10,10 +10,20 @@ Checked October 11, 2026, approximately 4:12 PM Eastern. These are local results
 | `node scripts/playthrough.mjs` | PASS | Seeds 913/42/1701; winners at 11/10/10 points after 101/139/71 turns; resource conservation |
 | Full seeded quantum matches | NOT COVERED by those playthroughs | They built zero quantum settlements; separate unit tests cover quantum mechanics/integration |
 | `npm run build` | PASS | Production web build and documented Qollab bundle generated successfully |
-| Qollab file limits | PASS locally | 13 upload files; largest 449,265 bytes, below 2 MB; no video/environment included |
+| Qollab file limits | PASS locally | Packaging checks every file against the 2 MB limit and enforces at most 100 files; no video/environment included |
 | Authenticated Qollab built-in simulator | NOT VERIFIED | Must test the uploaded runtime and bridge |
 | Authenticated Qollab IonQ simulator | NOT VERIFIED | Local Python success does not prove browser/provider integration |
-| Public project / video / repo access | NOT VERIFIED | Links not supplied yet; no Git remote configured |
+| Public GitHub repository | PASS | https://github.com/Pudging/fold; initial GitHub Actions verification completed successfully |
+| Public browser game | PASS, October 11 deployment check | https://fold-kgveritrade.vercel.app; unauthenticated HTTP 200 and browser gameplay checks below |
+| Published Qollab project / public video | NOT VERIFIED | Final URLs still pending |
+
+## Production browser verification — October 11, 2026
+
+Vercel production deployment is Ready. An unauthenticated request returned HTTP 200 with title “Fold — Quantum Settlers”; the browser opened the game without a login prompt.
+
+Created an Alice/Bob match and completed all eight starting placements. Both players had two settlements, two roads and two points. Rolled production, checked unaffordable build controls, ended the turn and confirmed the active player's resource hand changed. Opened the quantum inspector, checked normalization 1.00000000 and circuit export controls; backend verification was correctly unavailable outside Qollab. Entered the separate tutorial and exited back to the existing Bob turn with the match preserved. This production check did not exercise quantum construction or an authenticated backend job.
+
+Screenshot: local `artifacts/fold-live.png`. Deployment configuration and redeployment instructions: [deployment guide](../docs/DEPLOYMENT.md). This site is a public playable demo, not proof of Qollab publication or competition entry.
 
 ## Existing demo file
 

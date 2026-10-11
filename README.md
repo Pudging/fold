@@ -17,7 +17,9 @@ This effort is supported by Qollab & IonQ
 - **Builders:** original source is in `main.js`, `src/`, and `quantum/`; the [architecture guide](docs/ARCHITECTURE.md) explains how to extend it.
 - **Submission team:** [requirements and remaining steps](submissions/README.md), [Qollab page copy](submissions/QOLLAB-PROJECT.md), [form answers](submissions/FORM-ANSWERS.md).
 
-**Source:** [github.com/Pudging/fold](https://github.com/Pudging/fold). Published Qollab and public demo URLs are still pending. Do not substitute localhost for a public submission link.
+**Play:** [fold-kgveritrade.vercel.app](https://fold-kgveritrade.vercel.app) · **Source:** [github.com/Pudging/fold](https://github.com/Pudging/fold)
+
+The public site runs the browser game without signing in. It offers local simulation and Qiskit circuit export; backend verification runs separately inside Qollab. Published Qollab and public demo-video URLs are still pending. See [deployment and redeployment](docs/DEPLOYMENT.md).
 
 ## Why it needs quantum mechanics
 

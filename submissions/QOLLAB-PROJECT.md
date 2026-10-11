@@ -2,10 +2,11 @@
 
 Fold is a local 2–4 player Catan-style game where quantum mechanics changes the board you build. Spend ore to split a settlement across two legal locations, change its phase, interfere its amplitudes, or link it with another player's settlement. Production measures the shared state and decides which locations survive.
 
-**Theme:** Quantum Playground.  
-**License:** MIT.  
-**Demo video:** PENDING — insert a public 2–3 minute link that opens without signing in.  
+**Theme:** Quantum Playground.
+**License:** MIT.
+**Demo video:** PENDING — insert a public 2–3 minute link that opens without signing in.
 **Source repository:** https://github.com/Pudging/fold
+**Play online:** https://fold-kgveritrade.vercel.app
 **Contributors:** PENDING — add the registered team members.
 
 ![Actual gameplay: a selected settlement occupies sites A and B with 50/50 probabilities.](../docs/assets/fold-board.jpg)
@@ -33,6 +34,8 @@ CZ can entangle two pending settlements without changing their immediate individ
 7. Open **ψ** to inspect/export the circuit and request one 1,024-shot backend verification job.
 
 This is pass-and-play on a shared screen. Practice grants extra supplies and is labeled; it is separate from the real match.
+
+The public Vercel site runs the same browser game without signing in and supports local simulation and Qiskit circuit export. The backend verification button is available only inside Qollab. The website does not replace the required published Qollab project.
 
 ## Technical execution and reproduction
 

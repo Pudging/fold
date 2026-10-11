@@ -15,6 +15,7 @@ Prepared October 11, 2026. These are reusable answers, **not a claim to have ins
 | Student/professional track | PENDING: match existing registration |
 | Published Qollab project URL | PENDING: actual public default-version URL |
 | GitHub URL | https://github.com/Pudging/fold |
+| Project website | https://fold-kgveritrade.vercel.app — public browser game; Qollab backend verification is separate |
 | Demo URL | PENDING: public 2–3 minute video, no sign-in |
 | Second form URL | PENDING: supply link from organizer announcement |
 

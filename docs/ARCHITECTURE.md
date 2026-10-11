@@ -13,6 +13,8 @@ Player action → main.js → src/catan.js → legal board/economy update
 
 The browser path needs no external API, database, authentication or persistent storage. The separate verification path requires a Qollab runtime and selected simulator.
 
+The browser game is deployed at [fold-kgveritrade.vercel.app](https://fold-kgveritrade.vercel.app). Vercel serves the static Vite build; it does not run the Python backend adapter. See [deployment configuration and redeployment](DEPLOYMENT.md).
+
 ## Source map
 
 | File | Purpose |

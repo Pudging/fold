@@ -9,7 +9,7 @@ await copyFile('LICENSE','qollab-build/LICENSE');
 const projectPage = await readFile('submissions/QOLLAB-PROJECT.md', 'utf8');
 await writeFile('qollab-build/README.md', projectPage.replaceAll('(../docs/', '(docs/'));
 await mkdir('qollab-build/docs/assets', {recursive:true});
-for (const name of ['QUANTUM.md','ARCHITECTURE.md','ATTRIBUTION.md']) {
+for (const name of ['QUANTUM.md','ARCHITECTURE.md','ATTRIBUTION.md','DEPLOYMENT.md']) {
   await copyFile(`docs/${name}`, `qollab-build/docs/${name}`);
 }
 await copyFile('docs/assets/fold-board.jpg','qollab-build/docs/assets/fold-board.jpg');
