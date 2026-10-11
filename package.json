@@ -4,6 +4,7 @@
   "private": true,
   "description": "A playable Catan-style game with quantum location settlements, interference and entanglement.",
   "license": "MIT",
+  "engines": { "node": "22.x" },
   "type": "module",
   "scripts": {
     "dev": "vite --host 127.0.0.1",

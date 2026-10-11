@@ -10,3 +10,7 @@ video/out/
 video/build/
 video/public/audio/score_raw.wav
 video/tools/
+.vercel/
+.env*
+
+.vercel
