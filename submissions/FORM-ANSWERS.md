@@ -11,9 +11,9 @@ Prepared October 11, 2026. These are reusable answers, **not a claim to have ins
 | Node | Georgia Tech |
 | License | MIT |
 | Team name | PENDING: registered team name |
-| Captain and members | PENDING: names and Qollab usernames |
+| Captain and members | Captain @dguo; Kevin Gao (@pudging), Nash Pillai (Qollab username awaiting confirmation) |
 | Student/professional track | PENDING: match existing registration |
-| Published Qollab project URL | PENDING: actual public default-version URL |
+| Published Qollab project URL | https://qollab.xyz/u/pudging/fold-quantum-settlers |
 | GitHub URL | https://github.com/Pudging/fold |
 | Project website | https://fold-kgveritrade.vercel.app — public browser game; Qollab backend verification is separate |
 | Demo URL | PENDING: public 2–3 minute video, no sign-in |

@@ -19,13 +19,13 @@ This effort is supported by Qollab & IonQ
 
 **Play:** [fold-kgveritrade.vercel.app](https://fold-kgveritrade.vercel.app) · **Source:** [github.com/Pudging/fold](https://github.com/Pudging/fold)
 
-The public site runs the browser game without signing in. It offers local simulation and Qiskit circuit export; backend verification runs separately inside Qollab. Published Qollab and public demo-video URLs are still pending. See [deployment and redeployment](docs/DEPLOYMENT.md).
+The public site runs the browser game without signing in. It offers local simulation and Qiskit circuit export; backend verification runs separately inside [the published Qollab project](https://qollab.xyz/u/pudging/fold-quantum-settlers). The demo-video link is still pending. See [deployment and redeployment](docs/DEPLOYMENT.md).
 
 ## Why it needs quantum mechanics
 
 A split settlement begins in equal superposition. H makes site A certain; Z followed by H makes site B certain, despite identical initial 50/50 location odds. The phase difference changes interference. CZ can entangle pending settlements without immediately changing individual odds. Joint measurement resolves the board before resource cards are created. These mechanics affect play beyond generating randomness.
 
-The game uses a local exact eight-qubit statevector and exports real Qiskit circuits. Backend verification is separate from live gameplay. Authenticated Qollab/IonQ execution is still pending; there is no claim of quantum advantage.
+The game uses a local exact eight-qubit statevector and exports real Qiskit circuits. Backend verification is separate from live gameplay. Qollab's built-in simulator returned 1,024 shots successfully; free IonQ simulator attempts failed at the provider connection and remain unverified. There is no claim of quantum advantage.
 
 ## Run
 
@@ -98,7 +98,7 @@ The browser uses an exact eight-qubit statevector. The board, economy and turns 
 
 Upload the contents of `qollab-build/` as a Qollab JS/Qiskit project, select the IonQ simulator, and Run. Open **ψ** to inspect the current pending circuit or the last pre-measurement circuit, download Qiskit Python, or submit one 1,024-shot verification job. The result compares backend counts to the captured ideal distribution. Verification does not determine live gameplay outcomes. The backend job stays used across new games/tutorials within that Qollab Run.
 
-The adapter accepts Qollab's injected backend, with no credentials or provider hardcoding. The Python bridge package and eight-qubit circuits are validated locally; an authenticated Qollab/IonQ end-to-end run remains unverified.
+The adapter accepts Qollab's injected backend, with no credentials or provider hardcoding. The Python bridge and an eight-qubit H circuit were verified inside Qollab on its built-in simulator. IonQ Aria 1 and Forte 1 simulator attempts failed with a provider-side “Failed to fetch” connection error before returning counts; authenticated IonQ verification remains pending.
 
 ## Validation
 

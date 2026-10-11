@@ -1,6 +1,6 @@
 # Submission preparation
 
-Checked October 11, 2026. **Source repository:** [Pudging/fold](https://github.com/Pudging/fold). Qollab publication and competition submissions are still pending.
+Checked October 11, 2026. **Source repository:** [Pudging/fold](https://github.com/Pudging/fold). **Published Qollab project:** [Fold — Quantum Settlers](https://qollab.xyz/u/pudging/fold-quantum-settlers), public default v1.1. Competition entry is still pending; the registered team captain @dguo must submit from the team dashboard.
 
 **Public game:** [fold-kgveritrade.vercel.app](https://fold-kgveritrade.vercel.app). Tested without signing in. [Deployment details](../docs/DEPLOYMENT.md).
 
@@ -47,10 +47,10 @@ Publishing the project may be distinct from entering it through a competition fo
 - [x] Confirm the GitHub repo contains original source, docs and LICENSE, excluding private backups/environments and large rendered outputs.
 - [x] Deploy the browser game publicly on Vercel and verify setup, production, turn handoff, inspector and tutorial restoration.
 - [ ] Finish and publicly host a 120–180 second demo. Existing rendered video is **106.005 seconds**, too short. Current Remotion source defines **148 seconds**, but that source is newer than the MP4; rerender, probe and review it. No render was performed in this preparation task.
-- [ ] Replace PENDING video/source/contributor fields in the project page, then rebuild the upload ZIP.
-- [ ] Test Qollab's built-in free simulator: open ψ and verify a nonempty circuit.
+- [ ] Add the final public video link; confirm Nash Pillai's Qollab username and contributor acceptance.
+- [x] Test Qollab's built-in free simulator: open ψ and verify a nonempty circuit. Eight-qubit H circuit returned 1,024 shots; total-variation distance 0.0098.
 - [ ] Test a free IonQ **simulator**, not paid hardware. The adapter is locally validated but authenticated Qollab/IonQ execution remains unverified.
-- [ ] Publish a public default version; test gameplay, inspection and tutorial on that version.
+- [x] Publish a public default version. v1.1 includes the tested Qollab iframe form fix; normal game start and tutorial restoration were checked from the published version.
 - [ ] Enter the project in both required submission destinations once their actual forms are available; capture confirmation/time/public URLs.
 
 Backend verification is separate from live browser gameplay. It submits one 1,024-shot job per Qollab Run. [Backend documentation](https://qollab.xyz/learn/docs/compute-backends) allows multiple local jobs but limits IonQ to one job per Run. Stop/Run to start another session rather than assuming one job for the entire hackathon.

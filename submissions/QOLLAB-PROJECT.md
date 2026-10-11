@@ -4,12 +4,12 @@ Fold is a local 2–4 player Catan-style game where quantum mechanics changes th
 
 **Theme:** Quantum Playground.
 **License:** MIT.
-**Demo video:** PENDING — insert a public 2–3 minute link that opens without signing in.
+**Demo video:** Link forthcoming.
 **Source repository:** https://github.com/Pudging/fold
 **Play online:** https://fold-kgveritrade.vercel.app
-**Contributors:** PENDING — add the registered team members.
+**Contributors:** Kevin Gao (@pudging), Nash Pillai, and @dguo.
 
-![Actual gameplay: a selected settlement occupies sites A and B with 50/50 probabilities.](../docs/assets/fold-board.jpg)
+![Actual gameplay: a selected settlement occupies sites A and B with 50/50 probabilities.](https://pub.qollab.xyz/assets/01a12ced-d85d-7d22-8e06-371555d75c81@292)
 
 ## What the game explores
 
@@ -21,7 +21,7 @@ The ordinary game remains recognizable: roads, resource production, accepted pla
 
 A new location qubit starts in |+⟩. Applying H selects A with probability one. Applying Z first and then H selects B with probability one, despite identical starting location odds. This is phase-dependent interference rather than a random-location generator.
 
-CZ can entangle two pending settlements without changing their immediate individual 50/50 odds. Correlation indicators come from reduced density matrices. Producing terrain touching either candidate triggers one joint measurement before resources are awarded. See [the mathematical model](../docs/QUANTUM.md).
+CZ can entangle two pending settlements without changing their immediate individual 50/50 odds. Correlation indicators come from reduced density matrices. Producing terrain touching either candidate triggers one joint measurement before resources are awarded. See [the mathematical model](https://github.com/Pudging/fold/blob/main/docs/QUANTUM.md).
 
 ## How to run and play
 
@@ -43,7 +43,7 @@ The browser uses an exact eight-qubit statevector. JavaScript handles the board/
 
 Local checks on October 11 passed 29 tests, 80 circuit comparisons / 2,000 gates at 1e-12 tolerance, and three legal classical games through ten-point victory with resource conservation. Those complete-game runs used no quantum builds; quantum rules have separate unit coverage.
 
-Authenticated Qollab/IonQ execution is still pending validation. Update this status only after an actual successful run. See [architecture and reproduction](../docs/ARCHITECTURE.md).
+Qollab built-in simulator verification passed on October 11: 1,024 shots for an eight-qubit circuit with H on the split settlement, with total-variation distance 0.0098 from the ideal distribution. Free IonQ Aria 1 and Forte 1 simulator attempts failed at the provider network request with “Failed to fetch”; IonQ counts are not yet verified. See [architecture and reproduction](https://github.com/Pudging/fold/blob/main/docs/ARCHITECTURE.md).
 
 ## Original contribution and intended impact
 
@@ -55,4 +55,4 @@ This is an independent prototype, not an official CATAN product. It uses origina
 
 This effort is supported by Qollab & IonQ
 
-Original code and documentation are MIT. AI-assisted development and prior prototype work are disclosed in [attribution and development history](../docs/ATTRIBUTION.md). The team must finalize the exact build-window boundary and contributor details before submitting.
+Original code and documentation are MIT. AI-assisted development and prior prototype work are disclosed in [attribution and development history](https://github.com/Pudging/fold/blob/main/docs/ATTRIBUTION.md). The team must finalize the exact build-window boundary and contributor details before submitting.

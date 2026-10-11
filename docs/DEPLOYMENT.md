@@ -4,9 +4,9 @@
 **Repository:** https://github.com/Pudging/fold
 **Vercel project:** `fold`, workspace `kgveritrade` (Kevin).
 **Production status:** Ready, verified October 11, 2026.
-**Deployed source commit:** `b596bf9` — Configure Vercel production deployment for Fold.
+**Initial deployed source commit:** `b596bf9` — Configure Vercel production deployment for Fold. Later deployment includes the Qollab iframe form compatibility fix.
 
-The production domain opens without signing in. Preview and deployment-specific URLs retain Vercel authentication. This deployment runs local pass-and-play, simulation, tutorial and Qiskit circuit export. Qollab's Python bridge and selected backend remain separate; authenticated Qollab/IonQ execution is still pending.
+The production domain opens without signing in. Preview and deployment-specific URLs retain Vercel authentication. This deployment runs local pass-and-play, simulation, tutorial and Qiskit circuit export. [Qollab's public project](https://qollab.xyz/u/pudging/fold-quantum-settlers) runs the Python bridge separately. Built-in simulator verification passed; IonQ simulator verification remains pending after provider connection errors.
 
 ## Build configuration
 

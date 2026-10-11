@@ -166,6 +166,15 @@ function bind(){
  app.querySelector('#player-trade')?.addEventListener('submit',e=>{e.preventDefault();const f=e.currentTarget.elements,give=emptyHand(),take=emptyHand();give[f.give.value]=Number(f.giveCount.value);take[f.take.value]=Number(f.takeCount.value);if(!changed(game.proposeTrade(Number(f.to.value),give,take)))error('Both players must have the offered cards. Choose different resources.');});
  app.querySelector('#discard-form')?.addEventListener('submit',e=>{e.preventDefault();const hand=Object.fromEntries(KEYS.map(k=>[k,Number(e.currentTarget.elements[k].value)]));if(!changed(game.discard(hand)))error('Select exactly the required number, using cards you hold.');});
  app.querySelector('#development-form')?.addEventListener('submit',e=>{e.preventDefault();const f=e.currentTarget.elements;if(!changed(game.resolveDevelopment(f.two?[f.one.value,f.two.value]:f.one?[f.one.value]:[])))error('The bank cannot supply those resources.');});
+ // Qollab permits scripts but not native form submission. Keep these local
+ // actions inside the app, including validation and Enter-key activation.
+ app.querySelectorAll('form').forEach(form=>{
+  const submit=()=>{if(form.reportValidity())form.dispatchEvent(new Event('submit',{bubbles:true,cancelable:true}));};
+  form.querySelectorAll('button:not([type]),button[type="submit"]').forEach(button=>{
+   button.type='button';button.addEventListener('click',submit);
+  });
+  form.addEventListener('keydown',e=>{if(e.key==='Enter'&&e.target.tagName==='INPUT'){e.preventDefault();submit();}});
+ });
  app.querySelectorAll('[data-tip]').forEach(el=>{
   el.onmouseenter=()=>{tipTimer=setTimeout(()=>showTip(el),300);};el.onmouseleave=hideTip;
   el.onfocus=()=>{if(keyboard)showTip(el);};el.onblur=hideTip;
