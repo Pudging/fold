@@ -1,6 +1,6 @@
 # Submission preparation
 
-Checked October 11, 2026. **Source repository:** [Pudging/fold](https://github.com/Pudging/fold). **Published Qollab project:** [Fold — Quantum Settlers](https://qollab.xyz/u/pudging/fold-quantum-settlers), public default v1.1. Competition entry is still pending; the registered team captain @dguo must submit from the team dashboard.
+Checked October 11, 2026. **Source repository:** [Pudging/fold](https://github.com/Pudging/fold). **Published Qollab project:** [Fold — Quantum Settlers](https://qollab.xyz/u/pudging/fold-quantum-settlers), public default v1.4 with gameplay images and dependencies/environment documentation. Competition entry is still pending; the registered team captain @dguo must submit from the team dashboard.
 
 **Public game:** [fold-kgveritrade.vercel.app](https://fold-kgveritrade.vercel.app). Tested without signing in. [Deployment details](../docs/DEPLOYMENT.md).
 

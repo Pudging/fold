@@ -16,7 +16,7 @@ Prepared October 11, 2026. These are reusable answers, **not a claim to have ins
 | Published Qollab project URL | https://qollab.xyz/u/pudging/fold-quantum-settlers |
 | GitHub URL | https://github.com/Pudging/fold |
 | Project website | https://fold-kgveritrade.vercel.app — public browser game; Qollab backend verification is separate |
-| Demo URL | PENDING: public 2–3 minute video, no sign-in |
+| Demo URL | https://youtu.be/lPDDzQZaRXU — supplied on the project page; check public access and final duration |
 | Second form URL | PENDING: supply link from organizer announcement |
 
 ## One-line pitch

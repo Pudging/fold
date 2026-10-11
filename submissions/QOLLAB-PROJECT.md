@@ -4,7 +4,7 @@ Fold is a local 2–4 player Catan-style game where quantum mechanics changes th
 
 **Theme:** Quantum Playground.
 **License:** MIT.
-**Demo video:** Link forthcoming.
+**Demo video:** https://youtu.be/lPDDzQZaRXU.
 **Source repository:** https://github.com/Pudging/fold
 **Play online:** https://fold-kgveritrade.vercel.app
 **Contributors:** Kevin Gao (@pudging), Nash Pillai, and @dguo.
@@ -23,6 +23,8 @@ A new location qubit starts in |+⟩. Applying H selects A with probability one.
 
 CZ can entangle two pending settlements without changing their immediate individual 50/50 odds. Correlation indicators come from reduced density matrices. Producing terrain touching either candidate triggers one joint measurement before resources are awarded. See [the mathematical model](https://github.com/Pudging/fold/blob/main/docs/QUANTUM.md).
 
+![A two-player match with roads, settlements, resource cards and the active player’s turn.](https://pub.qollab.xyz/assets/01a12cfc-7ae2-7431-857c-092fc3797263)
+
 ## How to run and play
 
 1. Choose a free simulator in Qollab and press Run.
@@ -37,6 +39,10 @@ This is pass-and-play on a shared screen. Practice grants extra supplies and is 
 
 The public Vercel site runs the same browser game without signing in and supports local simulation and Qiskit circuit export. The backend verification button is available only inside Qollab. The website does not replace the required published Qollab project.
 
+![Quantum inspector: a split settlement has two amplitudes of 0.707, each with 50% probability, produced by an H gate.](https://pub.qollab.xyz/assets/01a12cfc-befa-7cf1-b89c-1599c0becaef)
+
+The inspector exposes the actual amplitudes and circuit. This screenshot uses the browser game’s local simulator; backend verification is a separate Qollab action.
+
 ## Technical execution and reproduction
 
 The browser uses an exact eight-qubit statevector. JavaScript handles the board/economy; Python reconstructs gate logs as Qiskit circuits. Qollab supplies the selected backend. Live gameplay remains local; verification compares backend counts against the captured ideal distribution and does not control gameplay.
@@ -44,6 +50,14 @@ The browser uses an exact eight-qubit statevector. JavaScript handles the board/
 Local checks on October 11 passed 29 tests, 80 circuit comparisons / 2,000 gates at 1e-12 tolerance, and three legal classical games through ten-point victory with resource conservation. Those complete-game runs used no quantum builds; quantum rules have separate unit coverage.
 
 Qollab built-in simulator verification passed on October 11: 1,024 shots for an eight-qubit circuit with H on the split settlement, with total-variation distance 0.0098 from the ideal distribution. Free IonQ Aria 1 and Forte 1 simulator attempts failed at the provider network request with “Failed to fetch”; IonQ counts are not yet verified. See [architecture and reproduction](https://github.com/Pudging/fold/blob/main/docs/ARCHITECTURE.md).
+
+## Dependencies and environment
+
+- **Qollab runtime:** HTML/CSS/JavaScript with Qollab’s JS/Qiskit wrapper. Python dependency: `qiskit>=2.5.2,<3.0.0`. Qollab provides the selected simulator backend.
+- **Local development and build:** Node.js 22.x, npm, and Vite `^8.3.4` (`npm ci` installs the locked versions).
+- **Independent quantum validation:** Python, Qiskit `2.5.2`, and NumPy `>=2,<3`, installed from `requirements-dev.txt`.
+- **Browser:** JavaScript, SVG and CSS support. No database, server, API keys or environment variables are required.
+- **Compute:** the free built-in Qollab simulator was verified. Free IonQ Aria 1/Forte 1 simulator attempts encountered the connection errors documented above; no paid hardware is needed.
 
 ## Original contribution and intended impact
 
@@ -55,4 +69,4 @@ This is an independent prototype, not an official CATAN product. It uses origina
 
 This effort is supported by Qollab & IonQ
 
-Original code and documentation are MIT. AI-assisted development and prior prototype work are disclosed in [attribution and development history](https://github.com/Pudging/fold/blob/main/docs/ATTRIBUTION.md). The team must finalize the exact build-window boundary and contributor details before submitting.
+Original code and documentation are MIT. Development and prior prototype work are disclosed in [attribution and development history](https://github.com/Pudging/fold/blob/main/docs/ATTRIBUTION.md). The team must finalize the exact build-window boundary and contributor details before submitting.
