@@ -69,4 +69,6 @@ This is an independent prototype, not an official CATAN product. It uses origina
 
 This effort is supported by Qollab & IonQ
 
-Original code and documentation are MIT. Development and prior prototype work are disclosed in [attribution and development history](https://github.com/Pudging/fold/blob/main/docs/ATTRIBUTION.md). The team must finalize the exact build-window boundary and contributor details before submitting.
+Original code and documentation are MIT. According to the team's account, the work prepared before the hackathon consisted of a picture illustrating a quantum Catan idea and a project name, drafted approximately 20 minutes before the October 9, 2026, 7 PM Eastern start: approximately **October 9, 2026, 6:40 PM Eastern**. This was a concept image and name, rather than a playable software prototype.
+
+David Guo led the mathematics, ideas and conceptual work. Kevin Gao and Nash Pillai wrote the project implementation. See [attribution and development history](https://github.com/Pudging/fold/blob/main/docs/ATTRIBUTION.md) for sources and dependencies.

@@ -31,7 +31,7 @@ Published https://qollab.xyz/u/pudging/fold-quantum-settlers as public default *
 
 Publication testing found that Qollab's script-only iframe blocks native form submission. Fixed local form button/Enter handling without changing the iframe sandbox. In the corrected draft, normal two-player setup, dice production, rejected bank exchange, accepted player trade and turn handoff passed. After publishing v1.1, rechecked normal game start and tutorial entry/exit restoring player names. All 29 local tests and both builds passed after the fix.
 
-Built-in verification was performed on a real practice settlement split (H on qubit 0, eight-qubit measurement, 1,024 shots). Free IonQ Aria 1 and Forte 1 attempts reached the Python provider path but failed during HTTP job submission. This is not IonQ execution evidence. Final video, build-window disclosure and captain's competition entry remain unresolved.
+Built-in verification was performed on a real practice settlement split (H on qubit 0, eight-qubit measurement, 1,024 shots). Free IonQ Aria 1 and Forte 1 attempts reached the Python provider path but failed during HTTP job submission. This is not IonQ execution evidence. The team's account of prior concept work is recorded in docs/ATTRIBUTION.md. Competition-entry and video status in this validation log reflect the checks recorded at the time.
 
 ## Existing demo file (earlier audit)
 

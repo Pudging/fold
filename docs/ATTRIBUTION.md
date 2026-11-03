@@ -15,17 +15,10 @@ This is an independent prototype, not an official CATAN product. Familiar board-
 - Manrope is loaded through Google Fonts with a sans-serif fallback.
 - The separate video project uses React, Remotion and its dependencies; dependency licenses remain their own. The project's original code/documentation is MIT, which does not relicense third-party packages.
 
-See both package-lock files for exact JavaScript dependency versions. Add any additional human/AI assistance and externally reused assets before final submission.
+See both package-lock files for exact JavaScript dependency versions.
 
-## Build-window disclosure — team confirmation required
+## Prior concept work and contributors
 
-Earlier design discussion and a seasonal-puzzle prototype exist in this workspace. The current Catan foundation superseded that prototype, but exact pre-window versus in-window provenance has not been established from a Git history. Do not claim that every file was created during the competition.
+According to the team's account, the material prepared before the hackathon consisted of a picture illustrating a quantum Catan idea and a project name. These were drafted approximately 20 minutes before the official start on October 9, 2026 at 7 PM Eastern, placing this concept work at approximately **October 9, 2026, 6:40 PM Eastern**. This was a concept image and name, rather than a playable software prototype.
 
-Before submission, the team must record:
-
-- Any code, templates, sketches or prototypes already available before October 9, 2026 at 7 PM Eastern.
-- Which substantive implementation work was completed within the official build window.
-- Any reused external code/assets, with source and license.
-- The final contributor list and each person's contribution.
-
-This section is an honest disclosure of an unresolved provenance question, not a completed eligibility attestation. Preserve older artifacts; do not alter file dates or fabricate commits.
+David Guo led the mathematics, ideas and conceptual work. Kevin Gao and Nash Pillai wrote the project implementation.

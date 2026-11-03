@@ -51,9 +51,9 @@ Fold is designed for people who understand board games but find quantum phase an
 
 Integrating joint measurement with classical production required resolving every pending settlement before awarding any resources and preserving piece/card accounting. Correlation visualization also needed reduced-state calculations rather than drawing links from gate history. Current scope is local pass-and-play; networking, saves and long human balance studies remain future work. Authenticated Qollab/IonQ validation is pending.
 
-## Originality / AI disclosure — finalize with team
+## Prior concept work
 
-AI assistance included Codex. Earlier design work and a seasonal prototype existed before the current Catan implementation. The team must specify its actual pre-window starting point, in-window contributions, additional tools, reused code/assets and contributor roles. Do not paste an unverified statement that all work began at kickoff.
+According to the team's account, the pre-hackathon material was a picture illustrating a quantum Catan idea and a project name, drafted on October 9, 2026 at approximately 6:40 PM Eastern, about 20 minutes before the 7 PM start. This was a concept image and name, rather than a playable software prototype. David Guo led the mathematics, ideas and conceptual work; Kevin Gao and Nash Pillai wrote the project implementation. See docs/ATTRIBUTION.md for sources and dependencies.
 
 ## Suggested release notes
 

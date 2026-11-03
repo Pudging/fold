@@ -42,7 +42,7 @@ Publishing the project may be distinct from entering it through a competition fo
 
 - [ ] Receive second form URL; inspect every field and deadline, then map the prepared answers.
 - [ ] Supply registered team name, members and correct track.
-- [ ] Finalize honest build-window / reused-code disclosure.
+- [x] Record the team's account of prior concept work: quantum Catan picture and project name, October 9, 2026, approximately 6:40 PM Eastern. See docs/ATTRIBUTION.md.
 - [x] Public GitHub repository: https://github.com/Pudging/fold
 - [x] Confirm the GitHub repo contains original source, docs and LICENSE, excluding private backups/environments and large rendered outputs.
 - [x] Deploy the browser game publicly on Vercel and verify setup, production, turn handoff, inspector and tutorial restoration.

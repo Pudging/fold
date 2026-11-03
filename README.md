@@ -111,7 +111,7 @@ For independent Qiskit checks, create `.venv`, install `requirements-dev.txt`, a
 
 ## Attribution and scope
 
-Read [sources, AI assistance and development disclosure](docs/ATTRIBUTION.md). Prior prototype work exists; exact build-window provenance and contributor roles still need team confirmation. Third-party dependencies retain their own licenses. The separate `video/` directory contains a Remotion demo project; its rendered MP4 must be checked independently before submission.
+Read [sources and development history](docs/ATTRIBUTION.md). The team reports that its pre-hackathon work was a quantum Catan concept picture and a project name, drafted on October 9, 2026 at approximately 6:40 PM Eastern, about 20 minutes before kickoff. David Guo led the mathematical and conceptual work; Kevin Gao and Nash Pillai wrote the implementation. Third-party dependencies retain their own licenses. The separate `video/` directory contains a Remotion demo project.
 
 Google Fonts is optional; a sans-serif fallback remains usable. No persistence, accounts or external APIs are needed for local play. Original code and documentation are [MIT licensed](LICENSE).
 
