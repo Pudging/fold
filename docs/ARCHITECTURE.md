@@ -59,6 +59,8 @@ The verification compares all complex amplitudes, all single-qubit purities and 
 
 ## Extending Fold
 
+The Qollab entry point is maintained in `scripts/qollab-main.js` and copied to the upload package as `main.js`. Its top-level `await verified` keeps the Qollab run active while players prepare their circuit. `window.foldBackend` resolves that waiting promise in `finally`, after the single backend verification has returned or failed. Without this wait, importing the browser game finishes the Qollab run before the player requests a backend job. `tests/qollab-runtime.test.js` checks the deferred success and failure lifetimes.
+
 Add or change a gate in both the JS simulator and Python circuit builder, then compare its complex amplitudes with Qiskit. Keep rule legality in `src/catan.js`; rejected moves must not spend cards or mutate the board. Derive visual indicators from quantum state. Keep joint collapse before production so unrealized sites cannot generate cards.
 
 For new multiplayer/storage features, treat the current shared-device implementation as the baseline; neither networking nor saved matches currently exists.

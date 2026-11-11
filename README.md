@@ -25,7 +25,7 @@ The public site runs the browser game without signing in. It offers local simula
 
 A split settlement begins in equal superposition. H makes site A certain; Z followed by H makes site B certain, despite identical initial 50/50 location odds. The phase difference changes interference. CZ can entangle pending settlements without immediately changing individual odds. Joint measurement resolves the board before resource cards are created. These mechanics affect play beyond generating randomness.
 
-The game uses a local exact eight-qubit statevector and exports real Qiskit circuits. Backend verification is separate from live gameplay. Qollab's built-in simulator returned 1,024 shots successfully; free IonQ simulator attempts failed at the provider connection and remain unverified. There is no claim of quantum advantage.
+The game uses a local exact eight-qubit statevector and exports real Qiskit circuits. Backend verification is separate from live gameplay. On November 10, 2026, the free IonQ Forte 1 (29q) noise-model simulator returned 1,024 shots with total-variation distance 0.0264; the built-in ideal simulator returned 1,024 shots with distance 0.0059. Both used an eight-qubit circuit with H on one split settlement. There is no claim of quantum advantage.
 
 ## Run
 
@@ -98,7 +98,7 @@ The browser uses an exact eight-qubit statevector. The board, economy and turns 
 
 Upload the contents of `qollab-build/` as a Qollab JS/Qiskit project, select the IonQ simulator, and Run. Open **ψ** to inspect the current pending circuit or the last pre-measurement circuit, download Qiskit Python, or submit one 1,024-shot verification job. The result compares backend counts to the captured ideal distribution. Verification does not determine live gameplay outcomes. The backend job stays used across new games/tutorials within that Qollab Run.
 
-The adapter accepts Qollab's injected backend, with no credentials or provider hardcoding. The Python bridge and an eight-qubit H circuit were verified inside Qollab on its built-in simulator. IonQ Aria 1 and Forte 1 simulator attempts failed with a provider-side “Failed to fetch” connection error before returning counts; authenticated IonQ verification remains pending.
+The adapter accepts Qollab's injected backend, with no credentials or provider hardcoding. The entry point waits for the verification request to return or fail before ending the Qollab run. This fixes the earlier lifecycle failure where the board loaded, the run ended, and a later verification request was refused. Both the free IonQ Forte 1 noise-model simulator and the built-in ideal simulator were verified successfully on November 10, 2026. See the [quick verification walkthrough](submissions/QOLLAB-PROJECT.md#quickest-route-to-backend-verification).
 
 ## Validation
 

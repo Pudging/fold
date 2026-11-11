@@ -14,7 +14,7 @@ for (const name of ['QUANTUM.md','ARCHITECTURE.md','ATTRIBUTION.md','DEPLOYMENT.
 }
 await copyFile('docs/assets/fold-board.jpg','qollab-build/docs/assets/fold-board.jpg');
 await writeFile('qollab-build/index.html','<div id="app"></div>\n');
-await writeFile('qollab-build/main.js',`import * as verifier from 'quantum.verify';\nwindow.foldBackend = async (operations, qubits = 8) => {\n  const raw = await verifier.run.callPromising(backend, JSON.stringify(operations), 1024, qubits);\n  return JSON.parse(String(raw));\n};\nimport './game.js';\n`);
+await copyFile('scripts/qollab-main.js','qollab-build/main.js');
 // Static imports execute before the assignment above. The app checks backend availability
 // when the player opens the science panel, after initialization has completed.
 await writeFile('qollab-build/requirements.txt','qiskit>=2.5.2,<3.0.0\n');

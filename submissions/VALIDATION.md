@@ -51,3 +51,9 @@ Earlier work checked guided setup, road placement, accepted trade, city upgrade,
 ## Release acceptance
 
 After a fresh build, record build/upload archive results below. Keep the backend statuses above unresolved until a real successful run. Capture version name, backend label, counts, public URL and timestamp when testing Qollab. Confirm every required form has an actual submission receipt; publication alone is not a receipt.
+
+## November 10, 2026: Qollab run-lifetime repair
+
+The entry point now waits on a promise resolved by the verification handler's `finally` block. Both deferred success and failure are covered by regression tests; all 31 tests and the build passed.
+
+Real Qollab draft runs used a practice settlement split from site 1 to site 9 (H on qubit 0, eight measured qubits). The free **IonQ Forte 1 (29q) noise-model simulator** returned **1,024 shots, distance 0.0264**. The **Built-in ideal simulator** returned **1,024 shots, distance 0.0059**. In both cases the console stayed Running during setup and printed Done only after counts returned. These successful runs supersede the older unresolved IonQ status above; the earlier failures remain historical evidence.
